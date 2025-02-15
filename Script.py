@@ -31,10 +31,10 @@ Après cela, essayez à nouveau d'accéder au film et cliquez sur "Réessayer"</
     DISCLAIMER_TXT = """
 <b>Ce bot est un projet open source. Tous les fichiers disponibles ici ont été téléchargés sur Telegram par d'autres utilisateurs et sont simplement indexés pour une recherche facile. Nous respectons toutes les lois sur le droit d'auteur et nous conformons aux réglementations DMCA et EUCD. Si un fichier enfreint la loi, contactez-nous pour qu'il soit supprimé dès que possible. L'utilisation du bot pour télécharger, diffuser, reproduire ou partager du contenu sans l'autorisation du détenteur des droits d'auteur est interdite.
 
-<blockquote>🌿 Maintenu Par : <a href='https://t.me/JISSHU_BOTS'>JISSHU BOTS</a></b></blockquote>"""
+<blockquote>🌿 Maintenu Par : <a href='https://t.me/Bot_Kingdox'>Bot Kingdox</a></b></blockquote>"""
     
 
-    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : JISSHU\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/MR_JISSHU'>MR.JISSHU</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
+    ABOUT_TEXT = """<blockquote><b>‣ Mon Nom : Marsh Mello\n‣ Créateur : <a href='https://t.me/Kingcey'>🇰ιηg¢єу</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ Hébergé Sur : Vercel\n‣ N° de build : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
     
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
