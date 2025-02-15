@@ -121,27 +121,27 @@ User - {}"""
     
     I_CUDNT = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
 
-𝗜 𝗰𝗼𝘂𝗹𝗱𝗻'𝘁 𝗳𝗶𝗻𝗱 𝗮𝗻𝘆 𝗺𝗼𝘃𝗶𝗲 𝗼𝗿 𝘀𝗲𝗿𝗶𝗲𝘀 𝗶𝗻 𝘁𝗵𝗮𝘁 𝗻𝗮𝗺𝗲.. 😐"""
+𝑱𝒆 𝒏'𝒂𝒊 𝒑𝒂𝒔 𝒑𝒖 𝒕𝒓𝒐𝒖𝒗𝒆𝒓 𝒅𝒆 𝒇𝒊𝒍𝒎 𝒐𝒖 𝒅𝒆 𝒔é𝒓𝒊𝒆 𝒂𝒚𝒂𝒏𝒕 𝒄𝒆 𝒏𝒐𝒎. Vérifie bien le Nom.. 😐"""
 
     I_CUD_NT = """😑 𝗛𝗲𝗹𝗹𝗼 {}
 
-𝗜 𝗰𝗼𝘂𝗹𝗱𝗻'𝘁 𝗳𝗶𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝘁𝗼 𝘁𝗵𝗮𝘁 😞... 𝗰𝗵𝗲𝗰𝗸 𝘆𝗼𝘂𝗿 𝘀𝗽𝗲𝗹𝗹𝗶𝗻𝗴."""
+Je n'ai rien trouvé en rapport avec ça 😞... vérifiez votre orthographe."""
     
     CUDNT_FND = """🤧 𝗛𝗲𝗹𝗹𝗼 {}
 
 𝗜 𝗰𝗼𝘂𝗹𝗱𝗻'𝘁 𝗳𝗶𝗻𝗱 𝗮𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝘁𝗼 𝘁𝗵𝗮𝘁 𝗱𝗶𝗱 𝘆𝗼𝘂 𝗺𝗲𝗮𝗻 𝗮𝗻𝘆 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲𝘀𝗲 ?? 👇"""
     
-    FONT_TXT= """<b>ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴍᴏᴅᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ꜰᴏɴᴛs sᴛʏʟᴇ, ᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ʟɪᴋᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ
+    FONT_TXT= """<b>Tu peux utiliser cette fonction pour rendre plus belle vos écrit en changent de format
 
-<code>/font hi how are you</code></b>"""
+<code>/font Rejoins @Anime_Crow</code></b>"""
     
-    PLAN_TEXT = """<b>ᴡᴇ ᴀʀᴇ ᴘʀᴏᴠɪᴅɪɴɢ ᴘʀᴇᴍɪᴜᴍ ᴀᴛ ᴛʜᴇ ʟᴏᴡᴇsᴛ ᴘʀɪᴄᴇs:
+    PLAN_TEXT = """<b>Voici Nos différents prix premium
     
 1 ʀᴜᴘᴇᴇ ᴘᴇʀ ᴅᴀʏ 👻
-29 ʀᴜᴘᴇᴇs ғᴏʀ ᴏɴᴇ ᴍᴏɴᴛʜ 😚
-55 ʀᴜᴘᴇᴇs ғᴏʀ ᴛᴡᴏ ᴍᴏɴᴛʜs 😗
+1000f Par mois 😚
+1700f Par 2 Mois 😗
 
-ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ʙᴜʏɪɴɢ ↡↡↡
+Clique sur Ses boutons pour continuer l'achat ↡↡↡
 </b>"""
     
     VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
@@ -150,9 +150,9 @@ User - {}"""
 
 #ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ:- 1/3 ✓
 
-ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ғɪʟᴇꜱ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴꜱ ᴛʜᴇɴ ʙᴜʏ ʙᴏᴛ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 😊
+Si vous voulez des fichiers directs sans aucune vérification, alors achetez un abonnement de bot. 😊
 
-💶 sᴇɴᴅ /plan ᴛᴏ ʙᴜʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ</b>"""
+💶 Envoyez pour acheter un abonnement.</b>"""
 
     VERIFY_COMPLETE_TEXT = """<b>👋 ʜᴇʏ {},
 
@@ -198,8 +198,8 @@ User - {}"""
 #verified_{}_completed"""
 
 
-    MOVIES_UPDATE_TXT = """<b>#𝑵𝒆𝒘_𝑭𝒊𝒍𝒆_𝑨𝒅𝒅𝒆𝒅 ✅
-**🍿 Title:** {title}
+    MOVIES_UPDATE_TXT = """<b>#𝑵𝒆𝒘_ ✅
+**🍿 Titre:** {title}
 **🎃 Genres:** {genres}
 **📆 Year:** {year}
 **⭐ Rating:** {rating} / 10
@@ -207,32 +207,31 @@ User - {}"""
 
     PREPLANS_TXT = """<b>👋 ʜᴇʏ {},
 
-<blockquote>🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇ ʙᴇɴɪꜰɪᴛꜱ:</blockquote>
+<blockquote>🎁 Avantage Premium:</blockquote>
 
-❏ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋꜱ
-❏ ɢᴇᴛ ᴅɪʀᴇᴄᴛ ғɪʟᴇs   
-❏ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ 
-❏ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ                         
-❏ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs                           
-❏ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs                                                                        
-❏ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ                              
-❏ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 𝟷ʜ [ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ ]
+❏ Pas besoin d'ouvrir des liens  
+❏ Obtenez des fichiers directs  
+❏ Expérience sans publicité  
+❏ Lien de téléchargement haute vitesse  
+❏ Liens de streaming multi-lecteurs  
+❏ Films et séries illimités  
+❏ Support administratif complet  
+❏ Les demandes seront complétées dans 1h si disponible
 
-⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
-</b>"""    
+Voir plan /myplan
 
     PREPLANSS_TXT = """<b>👋 ʜᴇʏ {}
     
 <blockquote>🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇ ʙᴇɴɪꜰɪᴛꜱ:</blockquote>
 
-❏ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋꜱ
-❏ ɢᴇᴛ ᴅɪʀᴇᴄᴛ ғɪʟᴇs   
-❏ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ 
-❏ ʜɪɢʜ-sᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ                         
-❏ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs                           
-❏ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs                                                                        
-❏ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ                              
-❏ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 𝟷ʜ [ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ ]
+❏ Pas besoin d'ouvrir des liens  
+❏ Obtenez des fichiers directs  
+❏ Expérience sans publicité  
+❏ Lien de téléchargement haute vitesse  
+❏ Liens de streaming multi-lecteurs  
+❏ Films et séries illimités  
+❏ Support administratif complet  
+❏ Les demandes seront complétées dans 1h si disponible  
 
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 </b>"""
@@ -252,9 +251,9 @@ User - {}"""
 
     FREE_TXT = """<b>👋 ʜᴇʏ {}
     
-<blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>
+<blockquote>🎖️Prix Premium :</blockquote>
 
- ❏ 𝟶𝟷𝟻₹    ➠    𝟶𝟷 ᴡᴇᴇᴋꜱ
+ ❏    ➠    𝟶𝟷 ᴡᴇᴇᴋꜱ
  ❏ 𝟶𝟹𝟿₹    ➠    𝟶𝟷 ᴍᴏɴᴛʜ
  ❏ 𝟶𝟽𝟻₹    ➠    𝟶𝟸 ᴍᴏɴᴛʜ
  ❏ 𝟷𝟷𝟶₹    ➠    𝟶𝟹 ᴍᴏɴᴛʜ
@@ -338,7 +337,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/JISSHU_BOTS">𝗝𝗶𝘀𝘀𝗵𝘂-𝗙𝗶𝗹𝘁𝗲𝗿-𝗕𝗼𝘁</a></blockquote>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<blockquote><a href="https://t.me/Bot_KingDox">𝗺𝗮𝗿𝘀𝗵</a></blockquote>
 
 developer : Mr.Jisshu
 </b>""" 
@@ -358,7 +357,7 @@ developer : Mr.Jisshu
 -----------Set Imdb Template-----------
 /set_template - set IMDb template <a href="https://t.me/Jisshu_developer/8">Example</a>
 --------------Set Tutorial-------------
-/set_tutorial {tutorial link} - set 1 verification tutorial 
+/set_tutorial {tutorial link} - set verification tutorial 
 /set_tutorial_2 {tutorial link} - set 2 verification tutorial 
 /set_tutorial_3 {tutorial link} - set 3 verification tutorial 
 -------------Set Log Channel-----------
